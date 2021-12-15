@@ -6,7 +6,7 @@ meeting through discord.
 
 Works perfectly fine in Windows 10...other OS no idea...
 
-Python 3 should be installed to the run the bot...
+Python 3 should be installed to the run the bot..
 
 ## Python3 can be downloaded from here.
 https://www.python.org/downloads/
